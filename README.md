@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi I'm Joanne Lin
+
+I worked as a frontend developer for about 4 years. Recently, I started learning Go.
+
+I've been building a real-time multiplayer game called [JOKER](https://github.com/y3933y3933/joker-backend) using `Go`, `Gin`, and `WebSocket`.
+
+
+I'm currently looking for a backend engineer role, ideally using Go in a product-focused team where I can grow fast, contribute meaningfully, and keep learning. 
 
 <!--
 **y3933y3933/y3933y3933** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
