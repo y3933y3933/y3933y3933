@@ -1,8 +1,8 @@
 ## Hi I'm Joanne Lin
+- 💻 I've beening a frontend developer for 4 years.
+- 🤖 I'm learning Go at the moment.
+- 💼 I'm looking for a backend engineer role.
 
-- I've beening a frontend developer for 4 years.
-- I'm learning Go at the moment.
-- I'm looking for a backend engineer role.
 
 <!--
 **y3933y3933/y3933y3933** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
